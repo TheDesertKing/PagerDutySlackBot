@@ -1,0 +1,6 @@
+/.vscode
+/PagerDutySlack.code-workspace
+/__pycache__
+/bin
+/include
+/lib
